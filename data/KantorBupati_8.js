@@ -1,0 +1,1 @@
+var json_KantorBupati_8 = {"type":"FeatureCollection","name":"KantorBupati_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Kantor":"Bupati Kutai Timur"},"geometry":{"type":"Point","coordinates":[117.608123072836861,0.525727589579483]}}]}
